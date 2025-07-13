@@ -24,10 +24,11 @@ Inspirasi proyek ini berasal dari kesuksesan aplikasi Yummy yang telah mencapai:
 - **Resep dari Koki Terkenal**: Resep pilihan dari koki profesional dan influencer kuliner
 
 ### Fitur yang Direncanakan
-- **Generator Daftar Belanja**: Membuat daftar belanja secara otomatis berdasarkan bahan dari resep
+- **Resep dari berbagai negara**: Membuat fitur resep di 4 negara yang terkenal dengan makanan enaknya
 - **Favorit Resep**: Menyimpan dan mengatur resep favorit untuk akses cepat
 - **Koleksi Resep**: Membuat koleksi resep secara kustom
 - **Timer Memasak**: Menyediakan fitur timer untuk setiap langkah dalam proses memasak
+- **Rating**: Menyediakan fitur rating untuk setiap masakan, untuk mengetahui seberapa worth it masakan tersebut
 
 ## Mission
 Misi kami adalah mendukung para pecinta memasak dan membantu meningkatkan keterampilan memasak masyarakat Indonesia melalui platform kuliner yang mudah diakses, lengkap, dan menyenangkan untuk digunakan.
